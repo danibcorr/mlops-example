@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://repo-name-web-site/index.html</loc>
+         <lastmod>2025-06-23</lastmod>
+    </url>
+    <url>
+         <loc>https://repo-name-web-site/project/config/config.html</loc>
+         <lastmod>2025-06-23</lastmod>
+    </url>
+    <url>
+         <loc>https://repo-name-web-site/project/etl/etl.html</loc>
+         <lastmod>2025-06-23</lastmod>
+    </url>
+    <url>
+         <loc>https://repo-name-web-site/project/models/models.html</loc>
+         <lastmod>2025-06-23</lastmod>
+    </url>
+    <url>
+         <loc>https://repo-name-web-site/project/utils/utils.html</loc>
+         <lastmod>2025-06-23</lastmod>
+    </url>
+</urlset>
