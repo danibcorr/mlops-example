@@ -1,0 +1,22 @@
+# Folders
+/data/
+/saved_objects/
+/runs/
+__pycache__/
+.vscode/
+.mypy_cache/
+/results/
+*build/
+*dist/
+*venv/
+*env/
+*site/
+*.egg-info/
+.pytest_cache/
+*.ruff_cache/
+
+# Files
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
